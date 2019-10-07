@@ -1,7 +1,7 @@
 # EXTRACTIVE TEXT SUMMARIZATION
 A way to do text summarization via an extractive method
 
-Pyhton 3
+Python 3
 
 Pre-trained Skip-Thoughts model from the python 2 code of https://github.com/ryankiros/skip-thoughts
 
