@@ -1,4 +1,4 @@
-# TEXT SUMMARIZATION
+# EXTRACTIVE TEXT SUMMARIZATION
 A way to do text summarization via an extractive method
 
 Pyhton 3
